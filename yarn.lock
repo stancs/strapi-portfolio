@@ -4006,6 +4006,11 @@ file-loader@^6.2.0:
     loader-utils "^2.0.0"
     schema-utils "^3.0.0"
 
+file-saver@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/file-saver/-/file-saver-2.0.5.tgz#d61cfe2ce059f414d899e9dd6d4107ee25670c38"
+  integrity sha512-P9bmyZ3h/PRG+Nzga+rbdI4OEpNDzAVyy74uVO9ATgzLK6VtAsYybF/+TOCvrc0MO793d6+42lLyZTw7/ArVzA==
+
 file-uri-to-path@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz#553a7b8446ff6f684359c445f1e37a05dacc33dd"
@@ -9075,7 +9080,7 @@ strapi-generate@3.6.2:
     reportback "^2.0.2"
     strapi-utils "3.6.2"
 
-strapi-helper-plugin@3.6.2:
+strapi-helper-plugin@3.6.2, strapi-helper-plugin@^3.6.2:
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/strapi-helper-plugin/-/strapi-helper-plugin-3.6.2.tgz#ab46db4801da4e511f4c13a757de0d906032104a"
   integrity sha512-831IAYkFIyp6KBpccbkYbRD8sU4AI2AoksTkXi4eU8DNEEW47Lg7wyOwt8aSmsT5/5YbfnRV0cdNS3vgedK43w==
