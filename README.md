@@ -70,3 +70,7 @@ cp -rf replace/.* .
 ```
 npm run develop
 ```
+
+8. If you want to add `content-export-import` plugin to import and export data, please refer to this: https://github.com/lazurey/strapi-plugin-content-export-import
+
+This plugin is already added in this project
