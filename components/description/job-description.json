@@ -9,6 +9,9 @@
   "attributes": {
     "text": {
       "type": "text"
+    },
+    "richText": {
+      "type": "richtext"
     }
   }
 }
