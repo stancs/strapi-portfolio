@@ -64,3 +64,9 @@ module.exports = ({ env }) => ({
 ```
 cp -rf replace/.* .
 ```
+
+7. Run the Strapi CMS server in watch mode
+
+```
+npm run develop
+```
