@@ -74,3 +74,19 @@ npm run develop
 8. If you want to add `content-export-import` plugin to import and export data, please refer to this: https://github.com/lazurey/strapi-plugin-content-export-import
 
 This plugin is already added in this project
+
+9. To host in Heroku, please read this guide:
+
+https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html
+
+Per this guide, please create a Heroku project `strapi-portfolio-stanlee`
+
+```
+heroku create strapi-portfolio-stanlee
+```
+
+10. To deploy, please run this command
+
+```
+git push heroku HEAD:main
+```
