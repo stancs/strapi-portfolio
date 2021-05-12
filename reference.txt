@@ -1,0 +1,10 @@
+
+Strapi: Mongo DB installation
+https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/configurations/databases/mongodb.html#mongodb-installation
+
+
+
+https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/configurations/databases/mongodb.html#_2-install-strapi-locally-with-mongodb
+
+https://developer.mongodb.com/how-to/strapi-headless-cms-with-atlas/
+
